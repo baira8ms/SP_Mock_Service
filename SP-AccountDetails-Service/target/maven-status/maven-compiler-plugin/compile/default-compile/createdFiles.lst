@@ -1,0 +1,10 @@
+com\sp\microservice\repositories\AccountDetailsRepository.class
+com\sp\microservice\Application.class
+com\sp\microservice\dto\AccountDetailsDto.class
+com\sp\microservice\entities\AccountDetailsEntity.class
+com\sp\microservice\dto\TariffChangeDto.class
+com\sp\microservice\repositories\TariffChangeRepository.class
+com\sp\microservice\controller\AccountDetailsController.class
+com\sp\microservice\entities\TariffChangeEntity.class
+com\sp\microservice\controller\TariffChangeController.class
+com\sp\microservice\config\ModelMapperConfiguration.class
